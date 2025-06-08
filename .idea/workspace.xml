@@ -5,8 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a067a918-5b19-4884-9a63-82c392310bed" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/民法/合同编/合同的订立.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/民法/总则编/民事法律关系的基本原理.xmind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/民法/合同的基本原理.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/合同的基本原理.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/刑法/犯罪的构成.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/刑法/犯罪的构成.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/买卖合同.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/合同编/买卖合同.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/代理.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/总则编/代理.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/债的学理分类体系.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/债法总则/债的学理分类体系.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/债的法定分类体系.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/债法总则/债的法定分类体系.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/占有.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/物权编/占有.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/合同的保全.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/合同编/合同的保全.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/合同的基本原理.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/合同编/合同的基本原理.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/合同的履行.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/合同编/合同的履行.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/合同的订立.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/合同（债）的权利义务终止.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/合同编/合同（债）的权利义务终止.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/合同（债）的转让和变更.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/合同编/合同（债）的转让和变更.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/所有权.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/物权编/所有权.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/担保物权.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/物权编/担保物权.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/民事主体.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/总则编/民事主体.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/民事法律关系的基本原理.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/民事法律关系的基本原理_merged.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/民事法律行为.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/总则编/民事法律行为.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/物权.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/物权编/物权.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/用益物权.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/物权编/用益物权.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/缔约过失责任.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/合同编/缔约过失责任.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/诉讼时效.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/总则编/诉讼时效.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/民法/违约责任.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/民法/合同编/违约责任.xmind" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +87,12 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/民法" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/民法/合同编" />
+      <recent name="$PROJECT_DIR$/民法/物权编" />
+      <recent name="$PROJECT_DIR$/民法/总则编" />
+      <recent name="$PROJECT_DIR$/民法/债法总则" />
     </key>
   </component>
   <component name="SharedIndexes">
